@@ -19,7 +19,7 @@
 
 ## Minecraft PyGame
 
-[![version](https://img.shields.io/badge/version-4.0-darkgreen)](https://github.com/your-username/your-repo/releases/tag/v1.0.0)
+[![version](https://img.shields.io/badge/version-1.0-darkgreen)](https://github.com/your-username/your-repo/releases/tag/v1.0.0)
 ![license](https://img.shields.io/badge/license-Titan-brown)
 
 This is a simple Minecraft clone built using Pygame. The game allows you to move a player around the screen and interact with blocks.
