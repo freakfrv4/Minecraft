@@ -48,5 +48,7 @@ This project is licensed under the MIT License.
 
 - This game is inspired by the popular game "Minecraft".
 - The game uses the Pygame library for graphics and input handling.
--
+
+## Details 
+
 - This README.MD file provides an overview of the game, instructions on how to run it, controls, and customization options.
